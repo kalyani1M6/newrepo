@@ -7,3 +7,9 @@ git branch -M main
 git remote add origin https://github.com/repo_name
 repo.git
 git push -u origin main
+
+
+git branch for subbranch
+
+git branch -m sub
+git push -u origin sub
