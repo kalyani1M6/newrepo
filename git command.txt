@@ -1,0 +1,9 @@
+Git -version control system
+
+git init
+git add *(all)
+git commit -m "msg"
+git branch -M main
+git remote add origin https://github.com/repo_name
+repo.git
+git push -u origin main
